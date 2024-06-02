@@ -1,0 +1,1 @@
+# ML-code-for-automated-system-for-detecting-and-classifying-various-defects-in-manufactured-goods
